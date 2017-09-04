@@ -1,0 +1,18 @@
+<span id="u">miracle3212</span>:<span id="d">~</span><span id="s">$ </span><!-- 5l33p -->bash <!-- 5l33p5l33p -->--login
+<span id="u">miracle3212</span>:<span id="d">~</span><span id="s">$ </span><!-- 5l33p5l33p5l33p -->whoami
+
++uid (Eric Do) &#60;<a id="hem" onclick="Typer.append('$BROWSER mailto:zard7@yandex.com')">zard7@yandex.com</a>&#62;
+<span id="u">miracle3212</span>:<span id="d">~</span><span id="s">$ </span><!-- 5l33p5l33p -->pwd
+/Earth/Asia/Vietnam/Saigon/Dist.7
+<span id="u">miracle3212</span>:<span id="d">~</span><span id="s">$ </span><!-- 5l33p5l33p5l33p -->cat &#60; <!-- 5l33p -->distro.sh
+<span id="note">#!/usr/bin/env bash</span>
+&nbsp;echo "<a id="hdi" onclick="Typer.append('$BROWSER https://www.debian.org/')">Debian</a>"
+&nbsp;echo "<a id="hdi2" onclick="Typer.append('$BROWSER https://www.centos.org/')">CentOS</a>"
+&nbsp;echo "<a id="hdi3" onclick="Typer.append('$BROWSER https://www.opensuse.org/')">OpenSUSE</a>"
+
+<span id="u">miracle3212</span>:<span id="d">~</span><span id="s">$ </span><!-- 5l33p5l33p -->ls <!-- 5l33p5l33p -->-lF
+total 12
+drwxr-xr-- 2 miracle3212 miracle3212 4096 July 20 22:14 <a id="cdh1" onclick="Typer.append('cd bio/')">bio/</a>
+drwxr-xr-- 2 miracle3212 miracle3212 4096 July 20 23:22 <a id="cdh2" onclick="Typer.append('cd contact/')">contact/</a>
+drwxr-xr-- 8 miracle3212 miracle3212 4096 July 4 07:30 <a id="cdh3" onclick="Typer.append('cd projects/')">projects/</a>
+<span id="u">miracle3212</span>:<span id="d">~</span><span id="s">$ </span>
