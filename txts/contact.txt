@@ -1,0 +1,9 @@
+<span id="u">zard777</span>:<span id="d">~/contact</span><span id="s">$ </span><!-- 5l33p5l33p -->ls <!-- 5l33p5l33p -->-laF
+total 10
+drwxr-xr-- 2 zard777 zard777 4096 Jun 24 20:22 <a id="cdc1" onclick="Typer.append('cd ./')">./</a>
+drwxr-xr-- 5 zard777 zard777 4096 Jun 24 20:37 <a id="cdc2" onclick="Typer.append('cd ../')">../</a>
+-rw-r--r-- 1 zard777 zard777 &nbsp;&nbsp;27 Jun 24 20:22 <a id="cm" onclick="Typer.append('$BROWSER mailto:zard7@yandex.com')">email</a>
+-rw-r--r-- 1 zard777 zard777 &nbsp;&nbsp;29 Jun 24 20:26 <a id="cg" onclick="Typer.append('$BROWSER github.com')">github</a>
+-rw-r--r-- 1 zard777 zard777 &nbsp;&nbsp;20 Jun 1 10:11 <a id="cf" onclick="Typer.append('$BROWSER blog')">blog</a>
+
+<span id="u">zard777</span>:<span id="d">~/contact</span><span id="s">$ </span>
