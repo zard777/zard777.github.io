@@ -30,8 +30,9 @@ switch (document.title) {
     document.getElementById('cdp1').href = "javascript:window.location.reload();";
     document.getElementById('cdp2').href = "/index.html";
     document.getElementById('pa').href = "https://github.com/zard777/xbot_remastered";
-    document.getElementById('pm').href = "https://github.com/mandatoryprogrammer/TrustTrees/pull/7";
     document.getElementById('tf').href = "https://0x12345.blogspot.com/2017/07/files-transfer-w-wormhole-cross-platform.html";
+    document.getElementById('pm').href = "https://i.imgur.com/FWozzPX.png";
+    document.getElementById('thv5').href = "https://github.com/zard777/ThreatHunting_v5";
     break;
   default:
   console.error("inject.js : unknown document.title");
