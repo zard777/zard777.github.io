@@ -1,9 +1,10 @@
 <span id="u">zard777</span>:<span id="d">~/projects</span><span id="s">$ </span><!-- 5l33p5l33p5l33p -->ls -laF
 total 22
-drwxr-xr-- 6 zard777 zard777 4096 Jun 25 01:20 <a id="cdp1" onclick="Typer.append('cd ./')">./</a>
-drwxr-xr-- 6 zard777 zard777 4096 Jun 24 23:37 <a id="cdp2" onclick="Typer.append('cd ../')">../</a>
+drwxr-xr-- 8 zard777 zard777 4096 Jun 25 01:20 <a id="cdp1" onclick="Typer.append('cd ./')">./</a>
+drwxr-xr-- 8 zard777 zard777 4096 Jun 24 23:37 <a id="cdp2" onclick="Typer.append('cd ../')">../</a>
 drwxr-xr-- 2 zard777 zard777 4096 Jun 25 01:20 <a id="pa" onclick="Typer.append('cd xbot_remastered/')">xbot_remastered/</a>
-drwxr-xr-- 2 zard777 zard777 4096 July 15 11:30 <a id="pm" onclick="Typer.append('cd TrustTrees/')">TrustTrees/</a>
 drwxr-xr-- 2 zard777 zard777 4096 July 26 20:30 <a id="tf" onclick="Typer.append('cd wormhole/')">Files-Transfer-Crossplatform</a>
+drwxr-xr-- 2 zard777 zard777 4096 Oct 10 12:30 <a id="pm" onclick="Typer.append('cd Hardcore_OSINT/')">Hardcore_OSINT/</a>
+drwxr-xr-- 2 zard777 zard777 4096 Dec 20 09:20 <a id="thv5" onclick="Typer.append('cd ThreatHunting_v5/')">ThreatHunting_v5/</a>
 
 <span id="u">zard777</span>:<span id="d">~/projects</span><span id="s">$ </span>
