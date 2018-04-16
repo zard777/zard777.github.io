@@ -60,6 +60,12 @@ b {
   text-decoration: none;
 }
 
+#thv5 {
+  color: #49E21B;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 /* Hover color for directories and pseudo-directories */
 #cdh1:hover, #cdh2:hover, #cdh3:hover,
 #cdb1:hover, #cdb2:hover,
