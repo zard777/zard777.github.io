@@ -54,7 +54,7 @@ b {
 #cdh1, #cdh2, #cdh3,
 #cdb1, #cdb2,
 #cdc1, #cdc2,
-#cdp1, #cdp2, #pa, #pcs, #pga, #pm, #ps, #psh, #pxs, #hdi, #hdi2, #hdi3 {
+#cdp1, #cdp2, #pa, #pcs, #pga, #pm, #ps, #psh, #pxs, #hdi, #hdi2, #hdi3, #tf {
   color: #0F74B8;
   font-weight: bold;
   text-decoration: none;
@@ -74,4 +74,9 @@ b {
 #hdi:hover, #hdi2:hover, #hdi3:hover {
   color: #32FFFF;
   text-decoration: underline;
+}
+
+#thv5:hover {
+ color: #00ff1d;
+ text-decoration: underline;
 }
